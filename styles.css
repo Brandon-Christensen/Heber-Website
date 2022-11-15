@@ -40,6 +40,12 @@
     grid-template-rows: auto auto;
   }
 
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+  }
+
   .topnav {
     overflow: hidden;
     background-color: #333;
@@ -64,3 +70,4 @@
     background-color: slategray;
     color: white;
   }
+
